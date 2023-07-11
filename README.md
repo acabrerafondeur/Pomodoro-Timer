@@ -1,6 +1,14 @@
 # Pomodoro Timer
 
 The Pomodoro Timer is a simple web-based application that helps you practice the Pomodoro Technique for improved productivity. It allows you to set a timer for work intervals and breaks, helping you manage your time effectively.
+## Screenshots
+
+![image](https://github.com/acabrerafondeur/Pomodoro-Timer/assets/47997094/81610d9d-b83e-4c84-a78a-98b349dc4d15)
+
+
+## Demo
+
+A live demo of the Pomodoro Timer can be found https://codepen.io/amcodes/full/KKryjbp.
 
 ## Features
 
@@ -30,14 +38,6 @@ To run the Pomodoro Timer locally, follow these steps:
 5. Once the work interval ends, take a break before starting the next work interval.
 
 6. Use the "Reset" button to reset the timer to the initial work interval duration.
-
-## Screenshots
-
-![Screenshot 1](insert-screenshot-url)
-
-## Demo
-
-A live demo of the Pomodoro Timer can be found https://codepen.io/amcodes/full/KKryjbp.
 
 ## License
 
