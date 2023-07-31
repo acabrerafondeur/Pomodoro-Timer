@@ -8,7 +8,7 @@ The Pomodoro Timer is a simple web-based application that helps you practice the
 
 ## Demo
 
-A live demo of the Pomodoro Timer can be found https://codepen.io/amcodes/full/KKryjbp.
+A live demo of the Pomodoro Timer can be found https://codepen.io/amcodes/full/KKryjbp. https://acabrerafondeur.github.io/Pomodoro-Timer/
 
 ## Features
 
